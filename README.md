@@ -10,9 +10,9 @@ Mempelajari bagaimana cara komunikasi Peer-To-Peer bekerja dalam Sistem Terdistr
     <p align="center">
       ANGGOTA KELOMPOK
       <br><br>
-      Muhammad Iqbal Setyawan (320220401017)
+      <b>Muhammad Iqbal Setyawan (320220401017)</b>
       <br>
-      Zerusealtin David Naibaho (320220401025)
+      <b>Zerusealtin David Naibaho (320220401025)</b>
       <br>
     </p>
     <h1>Pengertian Peer-to-Peer (P2P)</h1>
