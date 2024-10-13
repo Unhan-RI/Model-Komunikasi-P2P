@@ -15,7 +15,7 @@ Mempelajari bagaimana cara komunikasi Peer-To-Peer bekerja dalam Sistem Terdistr
       <b>Zerusealtin David Naibaho (320220401025)</b>
       <br>
     </p>
-    <h1>Pengertian Peer-to-Peer (P2P)</h1>
+    <h2>Pengertian Peer-to-Peer (P2P)</h2>
       Peer-to-Peer (P2P) adalah model jaringan di mana setiap node atau komputer dalam jaringan dapat berfungsi sebagai client maupun server. Berbeda dengan model client-server tradisional, di mana komunikasi terjadi antara client dan server pusat, pada jaringan P2P semua node memiliki peran yang sama dan dapat saling berkomunikasi secara langsung.
       <br>
     <h2>Implementasi Tugas P2P</h2>
